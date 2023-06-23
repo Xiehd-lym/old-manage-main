@@ -1,5 +1,6 @@
 # old-manager-main
-敬老院管理系统
+
+[基于Springboot、mysql的]敬老院管理系统
 毕业设计01：主题“敬老院管理系统”；
 项目代码已上传，数据库私聊：xiehdwork@163.com
 
