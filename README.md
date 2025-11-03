@@ -1,4 +1,4 @@
-# old-manager-main
+# geracomium
 
 毕业设计01：主题“敬老院管理系统”
 
